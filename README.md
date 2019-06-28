@@ -8,3 +8,6 @@ The studied classifiers are:
   * Decision tree classifier
   * Random forest classifier
   * Gradient-boosted tree classifier
+
+This notebook is available and published on databricks cloud under the following link:
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/8143187682226564/612737040150280/3186001515933643/latest.html
