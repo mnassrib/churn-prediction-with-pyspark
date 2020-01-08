@@ -12,8 +12,4 @@ The studied classifiers are:
 Two notebooks are achieved:
  * The first one is available and published on databricks cloud under the following link:
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/8143187682226564/612737040150280/3186001515933643/latest.html
- * The second is running on google colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/weiji14/deepbedmap/)
-
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mnassrib/customer-churn-prediction-with-python/blob/master/churn_prediction_google_colab.ipynb)
-
+ * The second is running on google colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mnassrib/churn-prediction-with-pyspark/blob/master/churn_prediction_google_colab.ipynb)
