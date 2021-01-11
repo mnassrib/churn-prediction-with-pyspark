@@ -11,8 +11,6 @@ The studied classifiers are:
 
 Two notebooks are achieved:
  * The first one is available and published on databricks cloud under the following link:
-https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/8143187682226564/612737040150280/3186001515933643/latest.html
-
-It can be also viewed on nbviewer: [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/mnassrib/churn-prediction-with-pyspark/blob/master/churn-prediction.ipynb)
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/8143187682226564/612737040150280/3186001515933643/latest.html. It can be also viewed on nbviewer: [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/mnassrib/churn-prediction-with-pyspark/blob/master/churn-prediction.ipynb)
 
  * The second is running on google colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mnassrib/churn-prediction-with-pyspark/blob/master/churn_prediction_google_colab.ipynb) and it can be viewed on nbviewer: [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/mnassrib/churn-prediction-with-pyspark/blob/master/churn_prediction_google_colab.ipynb)
